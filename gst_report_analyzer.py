@@ -40,10 +40,10 @@ if uploaded_file:
     # =========================
     gstin_col = "GSTIN of supplier"
     trade_col = "Trade/Legal name"
-    taxable_col = "Taxable value"
-    igst_col = "Integrated tax"
-    cgst_col = "Central tax"
-    sgst_col = "State/UT tax"
+    taxable_col = "Taxable Value (₹)"
+    igst_col = "Integrated Tax(₹)"
+    cgst_col = "Central Tax(₹)"
+    sgst_col = "State/UT Tax(₹)"
 
     # =========================
     # CHECK REQUIRED COLUMNS
